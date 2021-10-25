@@ -1,0 +1,1 @@
+# microfrontends-single-spa-angular-example
